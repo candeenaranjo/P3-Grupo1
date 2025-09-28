@@ -1,0 +1,7 @@
+#ifndef RS_H_INCLUDED
+#define RS_H_INCLUDED
+#include "HASH.h"
+
+
+
+#endif // RS_H_INCLUDED
