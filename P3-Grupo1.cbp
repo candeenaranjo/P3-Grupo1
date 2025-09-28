@@ -31,6 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="HASH.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="RAC.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="RAL.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="RS.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
