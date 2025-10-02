@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1759424162 source:c:\users\maria\onedrive\escritorio\p3-grupo1\main.c
+	<ctype.h>
+	"RS.h"
+	"RAL.h"
+	"RAC.h"
+
+1759424192 c:\users\maria\onedrive\escritorio\p3-grupo1\rs.h
+	<ctype.h>
+	"HASH.h"
+
+1759418879 c:\users\maria\onedrive\escritorio\p3-grupo1\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+
+1759424263 c:\users\maria\onedrive\escritorio\p3-grupo1\ral.h
+	<ctype.h>
+	"HASH.h"
+
+1759424254 c:\users\maria\onedrive\escritorio\p3-grupo1\rac.h
+	<ctype.h>
+	"HASH.h"
+
